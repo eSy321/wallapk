@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SForum</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="get_list_students">Lista Studentów</string>
+    <string name="get_list_courses">Lista Kursów</string>
+    <string name="wyloguj">Wyloguj</string>
+    <string name="title_activity_part_adapter2">PartAdapter2</string>
+    <string name="title_activity_create_user">CreateUser</string>
+    <string name="imie_studenta">Imie studenta</string>
+    <string name="haslo">Hasło</string>
+    <string name="zaloguj">Zaloguj</string>
+    <string name="numer_indeksu">Numer indeksu</string>
+    <string name="commit">Create Student</string>
+    <string name="potwierdz_haslo">Potwierdź hasło</string>
+</resources>
